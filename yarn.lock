@@ -3365,22 +3365,22 @@ queue-microtask@^1.2.2:
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
-react-dom@^19.0.0:
-  version "19.0.0-rc-fb9a90fa48-20240614"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-19.0.0-rc-fb9a90fa48-20240614.tgz#8dce9ed0650096d65437e4bce790628e483831a2"
-  integrity sha512-PoEsPe32F7KPLYOBvZfjylEI1B67N44PwY3lyvpmBkhlluLnLz0jH8q2Wg9YidAi6z0k3iUnNRm5x10wurzt9Q==
+react-dom@19.0.0-rc-c3cdbec0a7-20240708:
+  version "19.0.0-rc-c3cdbec0a7-20240708"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-19.0.0-rc-c3cdbec0a7-20240708.tgz#87457e4ee4e6109b15986412aae160b5dbcbf8f4"
+  integrity sha512-R1yZwlnsVfcoGBR+uuPmp3vR66ggmPv6gnskNR5T4JXHHZoa0bqiPKVbaRR49Y05k0gEUYWhJ0J/+g30ydaqTQ==
   dependencies:
-    scheduler "0.25.0-rc-fb9a90fa48-20240614"
+    scheduler "0.25.0-rc-c3cdbec0a7-20240708"
 
 react-is@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react@^19.0.0:
-  version "19.0.0-rc-fb9a90fa48-20240614"
-  resolved "https://registry.yarnpkg.com/react/-/react-19.0.0-rc-fb9a90fa48-20240614.tgz#90eb43a0b005e8cc3cbf0d801c14816d01df1b08"
-  integrity sha512-nvE3Gy+IOIfH/DXhkyxFVQSrITarFcQz4+shzC/McxQXEUSonpw2oDy/Wi9hdDtV3hlP12VYuDL95iiBREedNQ==
+react@19.0.0-rc-c3cdbec0a7-20240708:
+  version "19.0.0-rc-c3cdbec0a7-20240708"
+  resolved "https://registry.yarnpkg.com/react/-/react-19.0.0-rc-c3cdbec0a7-20240708.tgz#196fde897be3fda6cdbaf5f9ee30345f07640eca"
+  integrity sha512-z8p489a0DIVJsGGtsGPLrp0aBL1TtACMj7J0ymWX6P8uji4lPkFFJynNpfNJinb329ASBjXpNYNkPVyqTKDcHw==
 
 read-cache@^1.0.0:
   version "1.0.0"
@@ -3538,10 +3538,10 @@ safe-regex-test@^1.0.3:
     es-errors "^1.3.0"
     is-regex "^1.1.4"
 
-scheduler@0.25.0-rc-fb9a90fa48-20240614:
-  version "0.25.0-rc-fb9a90fa48-20240614"
-  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.25.0-rc-fb9a90fa48-20240614.tgz#9ee11063b7c0f47aef3fea53d9f1be3f13794dce"
-  integrity sha512-HHqQ/SqbeiDfXXVKgNxTpbQTD4n7IUb4hZATvHjp03jr3TF7igehCyHdOjeYTrzIseLO93cTTfSb5f4qWcirMQ==
+scheduler@0.25.0-rc-c3cdbec0a7-20240708:
+  version "0.25.0-rc-c3cdbec0a7-20240708"
+  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.25.0-rc-c3cdbec0a7-20240708.tgz#2aea9d17a32c91b8f2e652502ab1e4ba19baef63"
+  integrity sha512-6mqVykDuPCkZuUalm+gKV7ZcvUIfAievjc1wkmzrGM5sJhltm6z7mXN9bDujuk+c+/HqvwtW/G7ZCF92HNCHAA==
 
 "semver@2 || 3 || 4 || 5":
   version "5.7.2"
